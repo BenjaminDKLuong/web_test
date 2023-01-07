@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site \nAbout this site \nAbout this site \nAbout this site \nAbout this site \nAbout this site \nAbout this site \nAbout this site \nAbout this site \nAbout this site \nAbout this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Benjamin DK Luong",
+    "section": "",
+    "text": "This is a Benjamin website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "page1.html",
+    "href": "page1.html",
+    "title": "Benjamin Website",
+    "section": "",
+    "text": "# this is page 1"
+  },
+  {
+    "objectID": "notebooks/page2.html",
+    "href": "notebooks/page2.html",
+    "title": "Benjamin Website",
+    "section": "",
+    "text": "# this is page 2"
+  },
+  {
+    "objectID": "notebooks/page1.html",
+    "href": "notebooks/page1.html",
+    "title": "Benjamin Website",
+    "section": "",
+    "text": "# this is page 1"
+  }
+]

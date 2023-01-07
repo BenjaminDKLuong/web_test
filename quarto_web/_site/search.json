@@ -14,8 +14,8 @@
     "text": "This is a Benjamin website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
-    "objectID": "page1.html",
-    "href": "page1.html",
+    "objectID": "notebooks/page1.html",
+    "href": "notebooks/page1.html",
     "title": "Benjamin Website",
     "section": "",
     "text": "# this is page 1"
@@ -26,12 +26,5 @@
     "title": "Benjamin Website",
     "section": "",
     "text": "# this is page 2"
-  },
-  {
-    "objectID": "notebooks/page1.html",
-    "href": "notebooks/page1.html",
-    "title": "Benjamin Website",
-    "section": "",
-    "text": "# this is page 1"
   }
 ]
